@@ -1,0 +1,1469 @@
+<html lang="en"><head>
+  <title>AIDRIVENPI</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet">
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js"></script>
+  <meta name="robots" content="max-image-preview:large">
+	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	<script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/aidrivenpi.net\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.8.1"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83d\udc26\u200d\ud83d\udd25","\ud83d\udc26\u200b\ud83d\udd25")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+<style id="wp-emoji-styles-inline-css" type="text/css">
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel="stylesheet" id="wp-block-library-css" href="http://aidrivenpi.net/wp-includes/css/dist/block-library/style.min.css?ver=6.8.1" type="text/css" media="all">
+<style id="classic-theme-styles-inline-css" type="text/css">
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id="global-styles-inline-css" type="text/css">
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel="https://api.w.org/" href="http://aidrivenpi.net/wp-json/"><link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://aidrivenpi.net/xmlrpc.php?rsd">
+<meta name="generator" content="WordPress 6.8.1">
+        <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.3/leaflet.css" data-require="leaflet@0.7.3" data-semver="0.7.3">
+        <link rel="stylesheet" href="http://aidrivenpi.net/wp-content/plugins/directory-map/assets/css/style.css">
+          <script async="" src="https://tag.simpli.fi/sifitag/d550a1ea-507c-4b7a-ae12-b067278aa2f4"></script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+  <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&amp;display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+  <style> 
+  .text_1{
+    display:none;
+  }
+  .text_2{
+    display:none;
+  }
+  .text_22{
+    display:none;
+  }
+   #usa_map{
+    margin-top:30px;
+   }
+   .map_tile_1{
+     display:none;
+   }
+   .map_tile_2{
+    display:none;
+   }
+   .dss iframe{
+     width:100%;
+    } 
+    .dss .modal-body{
+        padding:0; 
+        margin:0;
+    }
+    a{
+        color:#0A0A0A;
+        text-decoration:none;
+        font-family: 'Open Sans', sans-serif;
+        font-weight:700;
+    }
+    .card-title{
+        padding:0;
+        margin:0;
+        color:#0C3C74;
+        font-family: 'Open Sans', sans-serif;
+    }
+    h2{
+        font-family: 'Open Sans', sans-serif;
+    }
+    p{
+        font-family: 'Open Sans', sans-serif;  
+    }   
+    .btn-primary{
+        font-family: 'Open Sans', sans-serif;
+        font-weight:700;
+    }
+    ul{
+        list-style:none;
+        font-family: 'Open Sans', sans-serif;
+    }
+    .card-text{
+        font-family: 'Open Sans', sans-serif;
+        padding: 0;
+        margin: 0;
+        color: #0C3C74;
+        font-size: 14px;
+        font-weight: 500;
+    }
+    .auditors img.attachment-60x60{
+        float:left;
+        margin-right:10px;
+        border-radius:50%;
+     }
+    .slider {
+        height: 400px;
+    }
+
+    /* slider-cards */
+    .slide-card {
+        width: 300px;
+    }
+
+    /* slider-arrows */
+    .arrow {
+        width: 40px;
+        height: 40px;
+    }
+    .accordion-button{
+        background:transparent!important;
+        font-weight:bold;
+    }
+    @media screen and (min-width: 320px) and (max-width:620px) {
+        #banner{
+            height: 276px!important;
+            background-size: 100%!important;
+            background-repeat: no-repeat!important;
+            margin-bottom: 0!important;
+        }
+        .single-btn{
+            width:100%!important;
+        }
+        #usa_map {
+            overflow-x:scroll;
+        }
+    }
+   
+   
+  </style>
+<script src="http://aidrivenpi.net/wp-includes/js/wp-emoji-release.min.js?ver=6.8.1" defer=""></script></head>
+<body id="map_direct_body">
+<div class="container-fluid p-5 bg-primary text-white text-center" style="background:url(http://aidrivenpi.net/wp-content/uploads/2023/09/header_1.png); height:1000px; position:relative;">
+    <img src="http://aidrivenpi.net/wp-content/uploads/2023/09/Settlemax-Logo-Landing@3x.png" style="width:200px;">
+    <h1 class="text-center" style="font-size:50px;">Auditors Directory</h1>
+ 
+    <span>To find an Auditor, Click on the state nearest to you</span>
+            <div id="usa_map"></div>
+        <div id="find_auditor"></div>
+           
+</div>
+  
+<div class="container mt-5">
+  <div class="row">
+        <div class="col-md-12">
+            <a href="https://aidrivenpi.net/" class="btn btn-primary" style="float:right; z-index:11111111111111111;"> Clear Filter</a>
+        </div>
+  </div>
+  <div id="auditors_data" class="row">
+  
+    
+                 
+                <div class="auditors col-sm-4">
+                <div class="card" style="width: 100%; margin-top:30px;">
+                    <a href="javascript:void(0)" data-bs-toggle="modal" data-bs-target="#video_226" onclick="load_video('226')">
+                                                    <img class="card-img-top" src="http://aidrivenpi.net/wp-content/uploads/2024/04/MichaelTaylor.jpg" alt="Card image cap">
+                                            </a>
+                   <!-- Modal -->
+                    <div class="dss modal fade" id="video_226" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                    <div class="modal-dialog modal-lg  modal-dialog-centered">
+                        <div class="modal-content">
+                        <div class="modal-header">
+                            <h5 class="modal-title">Michael Taylor</h5>
+                               <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                        </div>
+                        <div class="modal-body">
+                        <iframe title="Dr. Michael Taylor" width="640" height="360" src="https://www.youtube.com/embed/YWQyZFSCnH0?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>                        </div>
+                        </div>
+                    </div>
+                    </div>
+                    <div class="card-body">
+                     <img width="60" height="60" src="http://aidrivenpi.net/wp-content/uploads/2024/04/Doctor-Website-Profile-1-150x150.png" class="attachment-60x60 size-60x60 wp-post-image" alt="" decoding="async" srcset="http://aidrivenpi.net/wp-content/uploads/2024/04/Doctor-Website-Profile-1-150x150.png 150w, http://aidrivenpi.net/wp-content/uploads/2024/04/Doctor-Website-Profile-1.png 300w" sizes="(max-width: 60px) 100vw, 60px">                        <h5 class="card-title"><a href="http://aidrivenpi.net/michael-taylor/">Michael Taylor</a></h5>
+                        <p class="card-text">Medical Audit Specialist (MAS) Clinical Financial Auditor (CFA)</p>
+                        <ul style="list-style:none; margin:0; padding:0;">
+                            <li><img src="http://aidrivenpi.net/wp-content/uploads/2023/09/Address.png">5550 W. Touhy Ave, Suite 103, Skokie, IL 60077</li>
+                            <li><img src="http://aidrivenpi.net/wp-content/uploads/2023/09/Phone.png">(773) 454-8739</li>
+                            <li><img src="http://aidrivenpi.net/wp-content/uploads/2023/09/Email.png">drt@drtaylorrehab.com</li>
+                        </ul>
+                        <a href="http://aidrivenpi.net/michael-taylor/" class="btn btn-primary" style="background:#FF8F00; clear:both; margin: 20px auto!important; display:block; border:0; width:250px; border-radius:20px;  margin:auto;">VIEW PROFILE</a>
+                    </div>
+                </div>
+            </div>
+                 
+                <div class="auditors col-sm-4">
+                <div class="card" style="width: 100%; margin-top:30px;">
+                    <a href="javascript:void(0)" data-bs-toggle="modal" data-bs-target="#video_216" onclick="load_video('216')">
+                                                    <img class="card-img-top" src="http://aidrivenpi.net/wp-content/uploads/2023/09/natalierowles.png" alt="Card image cap">
+                                            </a>
+                   <!-- Modal -->
+                    <div class="dss modal fade" id="video_216" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                    <div class="modal-dialog modal-lg  modal-dialog-centered">
+                        <div class="modal-content">
+                        <div class="modal-header">
+                            <h5 class="modal-title">Natalie Rowles</h5>
+                               <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                        </div>
+                        <div class="modal-body">
+                        <iframe title="Dr. Natalie Rowles" width="640" height="360" src="https://www.youtube.com/embed/sFrSz8CtSPU?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>                        </div>
+                        </div>
+                    </div>
+                    </div>
+                    <div class="card-body">
+                     <img width="60" height="60" src="http://aidrivenpi.net/wp-content/uploads/2023/09/Natalie-Rowles-150x150.png" class="attachment-60x60 size-60x60 wp-post-image" alt="" decoding="async" srcset="http://aidrivenpi.net/wp-content/uploads/2023/09/Natalie-Rowles-150x150.png 150w, http://aidrivenpi.net/wp-content/uploads/2023/09/Natalie-Rowles-300x300.png 300w, http://aidrivenpi.net/wp-content/uploads/2023/09/Natalie-Rowles.png 512w" sizes="(max-width: 60px) 100vw, 60px">                        <h5 class="card-title"><a href="http://aidrivenpi.net/natalie-rowles/">Natalie Rowles</a></h5>
+                        <p class="card-text">Medical Audit Specialist (MAS) Clinical Financial Auditor (CFA)</p>
+                        <ul style="list-style:none; margin:0; padding:0;">
+                            <li><img src="http://aidrivenpi.net/wp-content/uploads/2023/09/Address.png"> 1314 E. Las Olas Blvd #1680, Fort Lauderdale, FL. 33301</li>
+                            <li><img src="http://aidrivenpi.net/wp-content/uploads/2023/09/Phone.png">(754) 755-6565</li>
+                            <li><img src="http://aidrivenpi.net/wp-content/uploads/2023/09/Email.png">ipcaudits@hotmail.com</li>
+                        </ul>
+                        <a href="http://aidrivenpi.net/natalie-rowles/" class="btn btn-primary" style="background:#FF8F00; clear:both; margin: 20px auto!important; display:block; border:0; width:250px; border-radius:20px;  margin:auto;">VIEW PROFILE</a>
+                    </div>
+                </div>
+            </div>
+                 
+                <div class="auditors col-sm-4">
+                <div class="card" style="width: 100%; margin-top:30px;">
+                    <a href="javascript:void(0)" data-bs-toggle="modal" data-bs-target="#video_132" onclick="load_video('132')">
+                                                    <img class="card-img-top" src="http://aidrivenpi.net/wp-content/uploads/2023/09/frankliberti.png" alt="Card image cap">
+                                            </a>
+                   <!-- Modal -->
+                    <div class="dss modal fade" id="video_132" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                    <div class="modal-dialog modal-lg  modal-dialog-centered">
+                        <div class="modal-content">
+                        <div class="modal-header">
+                            <h5 class="modal-title">Frank Liberti</h5>
+                               <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                        </div>
+                        <div class="modal-body">
+                        <iframe title="Dr. Frank Liberti" width="640" height="360" src="https://www.youtube.com/embed/52CfYWf1z64?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>                        </div>
+                        </div>
+                    </div>
+                    </div>
+                    <div class="card-body">
+                     <img width="60" height="60" src="http://aidrivenpi.net/wp-content/uploads/2023/09/Dr.-Frank-Liberti-150x150.png" class="attachment-60x60 size-60x60 wp-post-image" alt="" decoding="async" srcset="http://aidrivenpi.net/wp-content/uploads/2023/09/Dr.-Frank-Liberti-150x150.png 150w, http://aidrivenpi.net/wp-content/uploads/2023/09/Dr.-Frank-Liberti-300x300.png 300w, http://aidrivenpi.net/wp-content/uploads/2023/09/Dr.-Frank-Liberti.png 512w" sizes="(max-width: 60px) 100vw, 60px">                        <h5 class="card-title"><a href="http://aidrivenpi.net/frank-liberti/">Frank Liberti</a></h5>
+                        <p class="card-text">CEO - Medical Audit Specialist (MAS) Clinical Financial Auditor (CFA)</p>
+                        <ul style="list-style:none; margin:0; padding:0;">
+                            <li><img src="http://aidrivenpi.net/wp-content/uploads/2023/09/Address.png">140 Island Way, Ste. 143, Clearwater, FL 33767</li>
+                            <li><img src="http://aidrivenpi.net/wp-content/uploads/2023/09/Phone.png">(727) 520-3961</li>
+                            <li><img src="http://aidrivenpi.net/wp-content/uploads/2023/09/Email.png">f_liberti@msn.com</li>
+                        </ul>
+                        <a href="http://aidrivenpi.net/frank-liberti/" class="btn btn-primary" style="background:#FF8F00; clear:both; margin: 20px auto!important; display:block; border:0; width:250px; border-radius:20px;  margin:auto;">VIEW PROFILE</a>
+                    </div>
+                </div>
+            </div>
+                 
+                <div class="auditors col-sm-4">
+                <div class="card" style="width: 100%; margin-top:30px;">
+                    <a href="javascript:void(0)" data-bs-toggle="modal" data-bs-target="#video_129" onclick="load_video('129')">
+                           
+                        <img class="card-img-top" src="http://aidrivenpi.net/wp-content/themes/settlemax/images/profile-video-banner-placeholder.png" alt="Card image cap">
+                                            </a>
+                   <!-- Modal -->
+                    <div class="dss modal fade" id="video_129" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                    <div class="modal-dialog modal-lg  modal-dialog-centered">
+                        <div class="modal-content">
+                        <div class="modal-header">
+                            <h5 class="modal-title">Frank Alamilla</h5>
+                               <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                        </div>
+                        <div class="modal-body">
+                                                </div>
+                        </div>
+                    </div>
+                    </div>
+                    <div class="card-body">
+                     <img width="60" height="60" src="http://aidrivenpi.net/wp-content/uploads/2023/09/Frank-Alamilla-v2-150x150.png" class="attachment-60x60 size-60x60 wp-post-image" alt="" decoding="async" srcset="http://aidrivenpi.net/wp-content/uploads/2023/09/Frank-Alamilla-v2-150x150.png 150w, http://aidrivenpi.net/wp-content/uploads/2023/09/Frank-Alamilla-v2-300x300.png 300w, http://aidrivenpi.net/wp-content/uploads/2023/09/Frank-Alamilla-v2.png 600w" sizes="(max-width: 60px) 100vw, 60px">                        <h5 class="card-title"><a href="http://aidrivenpi.net/frank-alamilla/">Frank Alamilla</a></h5>
+                        <p class="card-text">Medical Audit Specialist (MAS) Clinical Financial Auditor (CFA)</p>
+                        <ul style="list-style:none; margin:0; padding:0;">
+                            <li><img src="http://aidrivenpi.net/wp-content/uploads/2023/09/Address.png">451 Keller Pkwy Keller TX 76248 </li>
+                            <li><img src="http://aidrivenpi.net/wp-content/uploads/2023/09/Phone.png">(917) 603-7037</li>
+                            <li><img src="http://aidrivenpi.net/wp-content/uploads/2023/09/Email.png">frankalamillatx@gmail.com</li>
+                        </ul>
+                        <a href="http://aidrivenpi.net/frank-alamilla/" class="btn btn-primary" style="background:#FF8F00; clear:both; margin: 20px auto!important; display:block; border:0; width:250px; border-radius:20px;  margin:auto;">VIEW PROFILE</a>
+                    </div>
+                </div>
+            </div>
+                 
+                <div class="auditors col-sm-4">
+                <div class="card" style="width: 100%; margin-top:30px;">
+                    <a href="javascript:void(0)" data-bs-toggle="modal" data-bs-target="#video_108" onclick="load_video('108')">
+                                                    <img class="card-img-top" src="http://aidrivenpi.net/wp-content/uploads/2023/09/fostermalmed.png" alt="Card image cap">
+                                            </a>
+                   <!-- Modal -->
+                    <div class="dss modal fade" id="video_108" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                    <div class="modal-dialog modal-lg  modal-dialog-centered">
+                        <div class="modal-content">
+                        <div class="modal-header">
+                            <h5 class="modal-title">Foster Malmed</h5>
+                               <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                        </div>
+                        <div class="modal-body">
+                        <iframe title="Dr Foster Malmed" width="640" height="360" src="https://www.youtube.com/embed/IVkJhGKkR5E?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>                        </div>
+                        </div>
+                    </div>
+                    </div>
+                    <div class="card-body">
+                     <img width="60" height="60" src="http://aidrivenpi.net/wp-content/uploads/2023/09/Foster-Malmed-150x150.jpg" class="attachment-60x60 size-60x60 wp-post-image" alt="" decoding="async" srcset="http://aidrivenpi.net/wp-content/uploads/2023/09/Foster-Malmed-150x150.jpg 150w, http://aidrivenpi.net/wp-content/uploads/2023/09/Foster-Malmed-300x300.jpg 300w, http://aidrivenpi.net/wp-content/uploads/2023/09/Foster-Malmed.jpg 600w" sizes="(max-width: 60px) 100vw, 60px">                        <h5 class="card-title"><a href="http://aidrivenpi.net/foster-malmed/">Foster Malmed</a></h5>
+                        <p class="card-text">Medical Audit Specialist (MAS) Clinical Financial Auditor (CFA)</p>
+                        <ul style="list-style:none; margin:0; padding:0;">
+                            <li><img src="http://aidrivenpi.net/wp-content/uploads/2023/09/Address.png">50 Manor Road Patterson NY, 12563</li>
+                            <li><img src="http://aidrivenpi.net/wp-content/uploads/2023/09/Phone.png">(914) 403-4697</li>
+                            <li><img src="http://aidrivenpi.net/wp-content/uploads/2023/09/Email.png">drmalmed@gmail.com</li>
+                        </ul>
+                        <a href="http://aidrivenpi.net/foster-malmed/" class="btn btn-primary" style="background:#FF8F00; clear:both; margin: 20px auto!important; display:block; border:0; width:250px; border-radius:20px;  margin:auto;">VIEW PROFILE</a>
+                    </div>
+                </div>
+            </div>
+                 
+                <div class="auditors col-sm-4">
+                <div class="card" style="width: 100%; margin-top:30px;">
+                    <a href="javascript:void(0)" data-bs-toggle="modal" data-bs-target="#video_104" onclick="load_video('104')">
+                                                    <img class="card-img-top" src="http://aidrivenpi.net/wp-content/uploads/2023/09/daviddrier.png" alt="Card image cap">
+                                            </a>
+                   <!-- Modal -->
+                    <div class="dss modal fade" id="video_104" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                    <div class="modal-dialog modal-lg  modal-dialog-centered">
+                        <div class="modal-content">
+                        <div class="modal-header">
+                            <h5 class="modal-title">David Drier</h5>
+                               <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                        </div>
+                        <div class="modal-body">
+                        <iframe title="Dr. David Drier" width="640" height="360" src="https://www.youtube.com/embed/2a0lT8I_fsg?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>                        </div>
+                        </div>
+                    </div>
+                    </div>
+                    <div class="card-body">
+                     <img width="60" height="60" src="http://aidrivenpi.net/wp-content/uploads/2023/09/David-Drier-768x768-1-150x150.jpg" class="attachment-60x60 size-60x60 wp-post-image" alt="" decoding="async" srcset="http://aidrivenpi.net/wp-content/uploads/2023/09/David-Drier-768x768-1-150x150.jpg 150w, http://aidrivenpi.net/wp-content/uploads/2023/09/David-Drier-768x768-1-300x300.jpg 300w, http://aidrivenpi.net/wp-content/uploads/2023/09/David-Drier-768x768-1.jpg 768w" sizes="(max-width: 60px) 100vw, 60px">                        <h5 class="card-title"><a href="http://aidrivenpi.net/david-drier/">David Drier</a></h5>
+                        <p class="card-text">Medical Audit Specialist (MAS) Clinical Financial Auditor (CFA)</p>
+                        <ul style="list-style:none; margin:0; padding:0;">
+                            <li><img src="http://aidrivenpi.net/wp-content/uploads/2023/09/Address.png">23 City Terrace North Newburgh, NY 12550</li>
+                            <li><img src="http://aidrivenpi.net/wp-content/uploads/2023/09/Phone.png">(845) 325-3218</li>
+                            <li><img src="http://aidrivenpi.net/wp-content/uploads/2023/09/Email.png">bodyworks@verizon.net</li>
+                        </ul>
+                        <a href="http://aidrivenpi.net/david-drier/" class="btn btn-primary" style="background:#FF8F00; clear:both; margin: 20px auto!important; display:block; border:0; width:250px; border-radius:20px;  margin:auto;">VIEW PROFILE</a>
+                    </div>
+                </div>
+            </div>
+                 
+                <div class="auditors col-sm-4">
+                <div class="card" style="width: 100%; margin-top:30px;">
+                    <a href="javascript:void(0)" data-bs-toggle="modal" data-bs-target="#video_101" onclick="load_video('101')">
+                           
+                        <img class="card-img-top" src="http://aidrivenpi.net/wp-content/themes/settlemax/images/profile-video-banner-placeholder.png" alt="Card image cap">
+                                            </a>
+                   <!-- Modal -->
+                    <div class="dss modal fade" id="video_101" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                    <div class="modal-dialog modal-lg  modal-dialog-centered">
+                        <div class="modal-content">
+                        <div class="modal-header">
+                            <h5 class="modal-title">Tapan Joshi</h5>
+                               <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                        </div>
+                        <div class="modal-body">
+                                                </div>
+                        </div>
+                    </div>
+                    </div>
+                    <div class="card-body">
+                     <img width="60" height="60" src="http://aidrivenpi.net/wp-content/uploads/2023/09/Tapan-Joshi-150x150.jpg" class="attachment-60x60 size-60x60 wp-post-image" alt="" decoding="async" srcset="http://aidrivenpi.net/wp-content/uploads/2023/09/Tapan-Joshi-150x150.jpg 150w, http://aidrivenpi.net/wp-content/uploads/2023/09/Tapan-Joshi-300x300.jpg 300w, http://aidrivenpi.net/wp-content/uploads/2023/09/Tapan-Joshi.jpg 600w" sizes="(max-width: 60px) 100vw, 60px">                        <h5 class="card-title"><a href="http://aidrivenpi.net/tapan-joshi/">Tapan Joshi</a></h5>
+                        <p class="card-text">Medical Audit Specialist (MAS) Clinical Financial Auditor (CFA)</p>
+                        <ul style="list-style:none; margin:0; padding:0;">
+                            <li><img src="http://aidrivenpi.net/wp-content/uploads/2023/09/Address.png">2506 Royal Lytham Dr St. Charles IL, 60174</li>
+                            <li><img src="http://aidrivenpi.net/wp-content/uploads/2023/09/Phone.png">(630) 388-8026</li>
+                            <li><img src="http://aidrivenpi.net/wp-content/uploads/2023/09/Email.png">tapjoshi@yahoo.com</li>
+                        </ul>
+                        <a href="http://aidrivenpi.net/tapan-joshi/" class="btn btn-primary" style="background:#FF8F00; clear:both; margin: 20px auto!important; display:block; border:0; width:250px; border-radius:20px;  margin:auto;">VIEW PROFILE</a>
+                    </div>
+                </div>
+            </div>
+                 
+                <div class="auditors col-sm-4">
+                <div class="card" style="width: 100%; margin-top:30px;">
+                    <a href="javascript:void(0)" data-bs-toggle="modal" data-bs-target="#video_98" onclick="load_video('98')">
+                                                    <img class="card-img-top" src="http://aidrivenpi.net/wp-content/uploads/2023/09/jameskoffeman.png" alt="Card image cap">
+                                            </a>
+                   <!-- Modal -->
+                    <div class="dss modal fade" id="video_98" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                    <div class="modal-dialog modal-lg  modal-dialog-centered">
+                        <div class="modal-content">
+                        <div class="modal-header">
+                            <h5 class="modal-title">James Koffeman</h5>
+                               <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                        </div>
+                        <div class="modal-body">
+                        <iframe title="Dr. James Koffeman" width="520" height="390" src="https://www.youtube.com/embed/87w5ZUbCsHg?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>                        </div>
+                        </div>
+                    </div>
+                    </div>
+                    <div class="card-body">
+                     <img width="60" height="60" src="http://aidrivenpi.net/wp-content/uploads/2023/09/James-Koffeman-150x150.png" class="attachment-60x60 size-60x60 wp-post-image" alt="" decoding="async" srcset="http://aidrivenpi.net/wp-content/uploads/2023/09/James-Koffeman-150x150.png 150w, http://aidrivenpi.net/wp-content/uploads/2023/09/James-Koffeman-300x300.png 300w, http://aidrivenpi.net/wp-content/uploads/2023/09/James-Koffeman.png 512w" sizes="(max-width: 60px) 100vw, 60px">                        <h5 class="card-title"><a href="http://aidrivenpi.net/james-koffeman/">James Koffeman</a></h5>
+                        <p class="card-text">Medical Audit Specialist (MAS) Clinical Financial Auditor (CFA)</p>
+                        <ul style="list-style:none; margin:0; padding:0;">
+                            <li><img src="http://aidrivenpi.net/wp-content/uploads/2023/09/Address.png">203 S West Ave Jackson, MI 49201</li>
+                            <li><img src="http://aidrivenpi.net/wp-content/uploads/2023/09/Phone.png">(517) 780-4045</li>
+                            <li><img src="http://aidrivenpi.net/wp-content/uploads/2023/09/Email.png">akdoctorj@yahoo.com</li>
+                        </ul>
+                        <a href="http://aidrivenpi.net/james-koffeman/" class="btn btn-primary" style="background:#FF8F00; clear:both; margin: 20px auto!important; display:block; border:0; width:250px; border-radius:20px;  margin:auto;">VIEW PROFILE</a>
+                    </div>
+                </div>
+            </div>
+                 
+                <div class="auditors col-sm-4">
+                <div class="card" style="width: 100%; margin-top:30px;">
+                    <a href="javascript:void(0)" data-bs-toggle="modal" data-bs-target="#video_95" onclick="load_video('95')">
+                                                    <img class="card-img-top" src="http://aidrivenpi.net/wp-content/uploads/2023/09/richardhiler.png" alt="Card image cap">
+                                            </a>
+                   <!-- Modal -->
+                    <div class="dss modal fade" id="video_95" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                    <div class="modal-dialog modal-lg  modal-dialog-centered">
+                        <div class="modal-content">
+                        <div class="modal-header">
+                            <h5 class="modal-title">Richard Hiler</h5>
+                               <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                        </div>
+                        <div class="modal-body">
+                        <iframe title="Dr. Richard Hiler" width="640" height="360" src="https://www.youtube.com/embed/yDvQBauLd9o?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>                        </div>
+                        </div>
+                    </div>
+                    </div>
+                    <div class="card-body">
+                     <img width="60" height="60" src="http://aidrivenpi.net/wp-content/uploads/2023/09/Richard-Hiler-150x150.png" class="attachment-60x60 size-60x60 wp-post-image" alt="" decoding="async" srcset="http://aidrivenpi.net/wp-content/uploads/2023/09/Richard-Hiler-150x150.png 150w, http://aidrivenpi.net/wp-content/uploads/2023/09/Richard-Hiler-300x300.png 300w, http://aidrivenpi.net/wp-content/uploads/2023/09/Richard-Hiler.png 600w" sizes="(max-width: 60px) 100vw, 60px">                        <h5 class="card-title"><a href="http://aidrivenpi.net/richard-hiler/">Richard Hiler</a></h5>
+                        <p class="card-text">Medical Audit Specialist (MAS) Clinical Financial Auditor (CFA)</p>
+                        <ul style="list-style:none; margin:0; padding:0;">
+                            <li><img src="http://aidrivenpi.net/wp-content/uploads/2023/09/Address.png">3561 Canopy Circle Naples, FL 34120</li>
+                            <li><img src="http://aidrivenpi.net/wp-content/uploads/2023/09/Phone.png">(239) 821-6213</li>
+                            <li><img src="http://aidrivenpi.net/wp-content/uploads/2023/09/Email.png">hilerchiro@aol.com</li>
+                        </ul>
+                        <a href="http://aidrivenpi.net/richard-hiler/" class="btn btn-primary" style="background:#FF8F00; clear:both; margin: 20px auto!important; display:block; border:0; width:250px; border-radius:20px;  margin:auto;">VIEW PROFILE</a>
+                    </div>
+                </div>
+            </div>
+                 
+                <div class="auditors col-sm-4">
+                <div class="card" style="width: 100%; margin-top:30px;">
+                    <a href="javascript:void(0)" data-bs-toggle="modal" data-bs-target="#video_91" onclick="load_video('91')">
+                                                    <img class="card-img-top" src="http://aidrivenpi.net/wp-content/uploads/2023/09/jeffmccloseky.png" alt="Card image cap">
+                                            </a>
+                   <!-- Modal -->
+                    <div class="dss modal fade" id="video_91" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                    <div class="modal-dialog modal-lg  modal-dialog-centered">
+                        <div class="modal-content">
+                        <div class="modal-header">
+                            <h5 class="modal-title">Jeff McCloskey</h5>
+                               <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                        </div>
+                        <div class="modal-body">
+                        <iframe title="Dr. Jeff McCloskey" width="640" height="360" src="https://www.youtube.com/embed/LkeWm2YqwpU?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>                        </div>
+                        </div>
+                    </div>
+                    </div>
+                    <div class="card-body">
+                     <img width="60" height="60" src="http://aidrivenpi.net/wp-content/uploads/2023/09/Jeff-McCloskey-150x150.png" class="attachment-60x60 size-60x60 wp-post-image" alt="" decoding="async" srcset="http://aidrivenpi.net/wp-content/uploads/2023/09/Jeff-McCloskey-150x150.png 150w, http://aidrivenpi.net/wp-content/uploads/2023/09/Jeff-McCloskey-300x300.png 300w, http://aidrivenpi.net/wp-content/uploads/2023/09/Jeff-McCloskey.png 600w" sizes="(max-width: 60px) 100vw, 60px">                        <h5 class="card-title"><a href="http://aidrivenpi.net/jeff-mccloskey/">Jeff McCloskey</a></h5>
+                        <p class="card-text">Medical Audit Specialist (MAS) Clinical Financial Auditor (CFA)</p>
+                        <ul style="list-style:none; margin:0; padding:0;">
+                            <li><img src="http://aidrivenpi.net/wp-content/uploads/2023/09/Address.png">321 Rood Ave. #103 Grand Junction, CO 81501</li>
+                            <li><img src="http://aidrivenpi.net/wp-content/uploads/2023/09/Phone.png">(970) 241-2400</li>
+                            <li><img src="http://aidrivenpi.net/wp-content/uploads/2023/09/Email.png">jeffmccloskeydc@gmail.com</li>
+                        </ul>
+                        <a href="http://aidrivenpi.net/jeff-mccloskey/" class="btn btn-primary" style="background:#FF8F00; clear:both; margin: 20px auto!important; display:block; border:0; width:250px; border-radius:20px;  margin:auto;">VIEW PROFILE</a>
+                    </div>
+                </div>
+            </div>
+                 
+                <div class="auditors col-sm-4">
+                <div class="card" style="width: 100%; margin-top:30px;">
+                    <a href="javascript:void(0)" data-bs-toggle="modal" data-bs-target="#video_88" onclick="load_video('88')">
+                                                    <img class="card-img-top" src="http://aidrivenpi.net/wp-content/uploads/2023/09/johnzimmerman.png" alt="Card image cap">
+                                            </a>
+                   <!-- Modal -->
+                    <div class="dss modal fade" id="video_88" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                    <div class="modal-dialog modal-lg  modal-dialog-centered">
+                        <div class="modal-content">
+                        <div class="modal-header">
+                            <h5 class="modal-title">John Zimmerman</h5>
+                               <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                        </div>
+                        <div class="modal-body">
+                        <iframe title="Dr John Zimmerman" width="640" height="360" src="https://www.youtube.com/embed/13wDptEK-TQ?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>                        </div>
+                        </div>
+                    </div>
+                    </div>
+                    <div class="card-body">
+                     <img width="60" height="60" src="http://aidrivenpi.net/wp-content/uploads/2023/09/john-zimmerman-150x150.jpg" class="attachment-60x60 size-60x60 wp-post-image" alt="" decoding="async">                        <h5 class="card-title"><a href="http://aidrivenpi.net/john-zimmerman/">John Zimmerman</a></h5>
+                        <p class="card-text">Medical Audit Specialist (MAS) Clinical Financial Auditor (CFA)</p>
+                        <ul style="list-style:none; margin:0; padding:0;">
+                            <li><img src="http://aidrivenpi.net/wp-content/uploads/2023/09/Address.png">566 North Diamond Bar Blvd. Diamond Bar, CA 91765</li>
+                            <li><img src="http://aidrivenpi.net/wp-content/uploads/2023/09/Phone.png">(909) 861-2611</li>
+                            <li><img src="http://aidrivenpi.net/wp-content/uploads/2023/09/Email.png">drjohnzimm@gmail.com</li>
+                        </ul>
+                        <a href="http://aidrivenpi.net/john-zimmerman/" class="btn btn-primary" style="background:#FF8F00; clear:both; margin: 20px auto!important; display:block; border:0; width:250px; border-radius:20px;  margin:auto;">VIEW PROFILE</a>
+                    </div>
+                </div>
+            </div>
+                 
+                <div class="auditors col-sm-4">
+                <div class="card" style="width: 100%; margin-top:30px;">
+                    <a href="javascript:void(0)" data-bs-toggle="modal" data-bs-target="#video_85" onclick="load_video('85')">
+                                                    <img class="card-img-top" src="http://aidrivenpi.net/wp-content/uploads/2023/09/stephendoholis.png" alt="Card image cap">
+                                            </a>
+                   <!-- Modal -->
+                    <div class="dss modal fade" id="video_85" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                    <div class="modal-dialog modal-lg  modal-dialog-centered">
+                        <div class="modal-content">
+                        <div class="modal-header">
+                            <h5 class="modal-title">Stephen Doholis</h5>
+                               <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                        </div>
+                        <div class="modal-body">
+                        <iframe title="Dr. Stephen Doholis" width="640" height="360" src="https://www.youtube.com/embed/gl2ouBM4jy8?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>                        </div>
+                        </div>
+                    </div>
+                    </div>
+                    <div class="card-body">
+                     <img width="60" height="60" src="http://aidrivenpi.net/wp-content/uploads/2023/09/Stephen-Doholis-150x150.png" class="attachment-60x60 size-60x60 wp-post-image" alt="" decoding="async" srcset="http://aidrivenpi.net/wp-content/uploads/2023/09/Stephen-Doholis-150x150.png 150w, http://aidrivenpi.net/wp-content/uploads/2023/09/Stephen-Doholis-300x300.png 300w, http://aidrivenpi.net/wp-content/uploads/2023/09/Stephen-Doholis.png 600w" sizes="(max-width: 60px) 100vw, 60px">                        <h5 class="card-title"><a href="http://aidrivenpi.net/stephen-doholis/">Stephen Doholis</a></h5>
+                        <p class="card-text">Medical Audit Specialist (MAS) Clinical Financial Auditor (CFA)</p>
+                        <ul style="list-style:none; margin:0; padding:0;">
+                            <li><img src="http://aidrivenpi.net/wp-content/uploads/2023/09/Address.png">4531 N. 16th St., #110 Phoenix, AZ 85016</li>
+                            <li><img src="http://aidrivenpi.net/wp-content/uploads/2023/09/Phone.png">(602) 224-5141</li>
+                            <li><img src="http://aidrivenpi.net/wp-content/uploads/2023/09/Email.png">doholischiro@aol.com</li>
+                        </ul>
+                        <a href="http://aidrivenpi.net/stephen-doholis/" class="btn btn-primary" style="background:#FF8F00; clear:both; margin: 20px auto!important; display:block; border:0; width:250px; border-radius:20px;  margin:auto;">VIEW PROFILE</a>
+                    </div>
+                </div>
+            </div>
+                 
+                <div class="auditors col-sm-4">
+                <div class="card" style="width: 100%; margin-top:30px;">
+                    <a href="javascript:void(0)" data-bs-toggle="modal" data-bs-target="#video_82" onclick="load_video('82')">
+                                                    <img class="card-img-top" src="http://aidrivenpi.net/wp-content/uploads/2023/09/robertjohns.png" alt="Card image cap">
+                                            </a>
+                   <!-- Modal -->
+                    <div class="dss modal fade" id="video_82" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                    <div class="modal-dialog modal-lg  modal-dialog-centered">
+                        <div class="modal-content">
+                        <div class="modal-header">
+                            <h5 class="modal-title">Robert Johns</h5>
+                               <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                        </div>
+                        <div class="modal-body">
+                        <iframe title="Dr. Robert Johns" width="640" height="360" src="https://www.youtube.com/embed/d4vFHUDJPRE?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>                        </div>
+                        </div>
+                    </div>
+                    </div>
+                    <div class="card-body">
+                     <img width="60" height="60" src="http://aidrivenpi.net/wp-content/uploads/2023/09/Robert-Johns-150x150.png" class="attachment-60x60 size-60x60 wp-post-image" alt="" decoding="async" srcset="http://aidrivenpi.net/wp-content/uploads/2023/09/Robert-Johns-150x150.png 150w, http://aidrivenpi.net/wp-content/uploads/2023/09/Robert-Johns-300x300.png 300w, http://aidrivenpi.net/wp-content/uploads/2023/09/Robert-Johns.png 600w" sizes="(max-width: 60px) 100vw, 60px">                        <h5 class="card-title"><a href="http://aidrivenpi.net/robert-johns/">Robert Johns</a></h5>
+                        <p class="card-text">Medical Audit Specialist (MAS) Clinical Financial Auditor (CFA)</p>
+                        <ul style="list-style:none; margin:0; padding:0;">
+                            <li><img src="http://aidrivenpi.net/wp-content/uploads/2023/09/Address.png">619 High Street Oregon City, OR 97045</li>
+                            <li><img src="http://aidrivenpi.net/wp-content/uploads/2023/09/Phone.png">(503) 656-4993</li>
+                            <li><img src="http://aidrivenpi.net/wp-content/uploads/2023/09/Email.png">drbob40j@yahoo.com</li>
+                        </ul>
+                        <a href="http://aidrivenpi.net/robert-johns/" class="btn btn-primary" style="background:#FF8F00; clear:both; margin: 20px auto!important; display:block; border:0; width:250px; border-radius:20px;  margin:auto;">VIEW PROFILE</a>
+                    </div>
+                </div>
+            </div>
+                 
+                <div class="auditors col-sm-4">
+                <div class="card" style="width: 100%; margin-top:30px;">
+                    <a href="javascript:void(0)" data-bs-toggle="modal" data-bs-target="#video_79" onclick="load_video('79')">
+                                                    <img class="card-img-top" src="http://aidrivenpi.net/wp-content/uploads/2023/09/terrycollinson.png" alt="Card image cap">
+                                            </a>
+                   <!-- Modal -->
+                    <div class="dss modal fade" id="video_79" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                    <div class="modal-dialog modal-lg  modal-dialog-centered">
+                        <div class="modal-content">
+                        <div class="modal-header">
+                            <h5 class="modal-title">Terry Collinson</h5>
+                               <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                        </div>
+                        <div class="modal-body">
+                        <iframe title="Dr. Terry Collinson" width="640" height="360" src="https://www.youtube.com/embed/gqqurSW5D9Q?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>                        </div>
+                        </div>
+                    </div>
+                    </div>
+                    <div class="card-body">
+                     <img width="60" height="60" src="http://aidrivenpi.net/wp-content/uploads/2023/09/terry-collins-150x150.jpg" class="attachment-60x60 size-60x60 wp-post-image" alt="" decoding="async">                        <h5 class="card-title"><a href="http://aidrivenpi.net/terry-collinson/">Terry Collinson</a></h5>
+                        <p class="card-text">Medical Audit Specialist (MAS) Clinical Financial Auditor (CFA)</p>
+                        <ul style="list-style:none; margin:0; padding:0;">
+                            <li><img src="http://aidrivenpi.net/wp-content/uploads/2023/09/Address.png">4009 San Felice Colorado Springs, CO 80906</li>
+                            <li><img src="http://aidrivenpi.net/wp-content/uploads/2023/09/Phone.png">(719) 649-9111</li>
+                            <li><img src="http://aidrivenpi.net/wp-content/uploads/2023/09/Email.png">drterrc@aol.com</li>
+                        </ul>
+                        <a href="http://aidrivenpi.net/terry-collinson/" class="btn btn-primary" style="background:#FF8F00; clear:both; margin: 20px auto!important; display:block; border:0; width:250px; border-radius:20px;  margin:auto;">VIEW PROFILE</a>
+                    </div>
+                </div>
+            </div>
+                 
+                <div class="auditors col-sm-4">
+                <div class="card" style="width: 100%; margin-top:30px;">
+                    <a href="javascript:void(0)" data-bs-toggle="modal" data-bs-target="#video_75" onclick="load_video('75')">
+                           
+                        <img class="card-img-top" src="http://aidrivenpi.net/wp-content/themes/settlemax/images/profile-video-banner-placeholder.png" alt="Card image cap">
+                                            </a>
+                   <!-- Modal -->
+                    <div class="dss modal fade" id="video_75" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                    <div class="modal-dialog modal-lg  modal-dialog-centered">
+                        <div class="modal-content">
+                        <div class="modal-header">
+                            <h5 class="modal-title">Ryan Maloney</h5>
+                               <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                        </div>
+                        <div class="modal-body">
+                                                </div>
+                        </div>
+                    </div>
+                    </div>
+                    <div class="card-body">
+                     <img width="60" height="60" src="http://aidrivenpi.net/wp-content/uploads/2023/09/Ryan-Maloney-150x150.png" class="attachment-60x60 size-60x60 wp-post-image" alt="" decoding="async" srcset="http://aidrivenpi.net/wp-content/uploads/2023/09/Ryan-Maloney-150x150.png 150w, http://aidrivenpi.net/wp-content/uploads/2023/09/Ryan-Maloney-300x300.png 300w, http://aidrivenpi.net/wp-content/uploads/2023/09/Ryan-Maloney.png 600w" sizes="(max-width: 60px) 100vw, 60px">                        <h5 class="card-title"><a href="http://aidrivenpi.net/ryan-maloney/">Ryan Maloney</a></h5>
+                        <p class="card-text">Medical Audit Specialist (MAS) Clinical Financial Auditor (CFA)</p>
+                        <ul style="list-style:none; margin:0; padding:0;">
+                            <li><img src="http://aidrivenpi.net/wp-content/uploads/2023/09/Address.png">1924 Old Berwick Road Bloomsburg, PA 17815</li>
+                            <li><img src="http://aidrivenpi.net/wp-content/uploads/2023/09/Phone.png">(570) 784-2811</li>
+                            <li><img src="http://aidrivenpi.net/wp-content/uploads/2023/09/Email.png">ryanmaloneydc@gmail.com</li>
+                        </ul>
+                        <a href="http://aidrivenpi.net/ryan-maloney/" class="btn btn-primary" style="background:#FF8F00; clear:both; margin: 20px auto!important; display:block; border:0; width:250px; border-radius:20px;  margin:auto;">VIEW PROFILE</a>
+                    </div>
+                </div>
+            </div>
+                 
+                <div class="auditors col-sm-4">
+                <div class="card" style="width: 100%; margin-top:30px;">
+                    <a href="javascript:void(0)" data-bs-toggle="modal" data-bs-target="#video_71" onclick="load_video('71')">
+                                                    <img class="card-img-top" src="http://aidrivenpi.net/wp-content/uploads/2023/09/frankbermis.png" alt="Card image cap">
+                                            </a>
+                   <!-- Modal -->
+                    <div class="dss modal fade" id="video_71" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                    <div class="modal-dialog modal-lg  modal-dialog-centered">
+                        <div class="modal-content">
+                        <div class="modal-header">
+                            <h5 class="modal-title">Frank Bemis</h5>
+                               <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                        </div>
+                        <div class="modal-body">
+                        <iframe title="Dr. Frank Bemis" width="640" height="360" src="https://www.youtube.com/embed/y0nBkKCLLog?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>                        </div>
+                        </div>
+                    </div>
+                    </div>
+                    <div class="card-body">
+                     <img width="60" height="60" src="http://aidrivenpi.net/wp-content/uploads/2023/09/FrankBemis-150x150.jpg" class="attachment-60x60 size-60x60 wp-post-image" alt="" decoding="async" srcset="http://aidrivenpi.net/wp-content/uploads/2023/09/FrankBemis-150x150.jpg 150w, http://aidrivenpi.net/wp-content/uploads/2023/09/FrankBemis-300x300.jpg 300w, http://aidrivenpi.net/wp-content/uploads/2023/09/FrankBemis.jpg 768w" sizes="(max-width: 60px) 100vw, 60px">                        <h5 class="card-title"><a href="http://aidrivenpi.net/frank-bemis/">Frank Bemis</a></h5>
+                        <p class="card-text">Medical Audit Specialist (MAS) Clinical Financial Auditor (CFA)</p>
+                        <ul style="list-style:none; margin:0; padding:0;">
+                            <li><img src="http://aidrivenpi.net/wp-content/uploads/2023/09/Address.png">4105 Humbert Road, Suite 102 Alton, IL 62002</li>
+                            <li><img src="http://aidrivenpi.net/wp-content/uploads/2023/09/Phone.png">(618) 972-0452</li>
+                            <li><img src="http://aidrivenpi.net/wp-content/uploads/2023/09/Email.png">frankcbemis@gmail.com</li>
+                        </ul>
+                        <a href="http://aidrivenpi.net/frank-bemis/" class="btn btn-primary" style="background:#FF8F00; clear:both; margin: 20px auto!important; display:block; border:0; width:250px; border-radius:20px;  margin:auto;">VIEW PROFILE</a>
+                    </div>
+                </div>
+            </div>
+                 
+                <div class="auditors col-sm-4">
+                <div class="card" style="width: 100%; margin-top:30px;">
+                    <a href="javascript:void(0)" data-bs-toggle="modal" data-bs-target="#video_65" onclick="load_video('65')">
+                                                    <img class="card-img-top" src="http://aidrivenpi.net/wp-content/uploads/2023/09/lancedurrett.png" alt="Card image cap">
+                                            </a>
+                   <!-- Modal -->
+                    <div class="dss modal fade" id="video_65" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                    <div class="modal-dialog modal-lg  modal-dialog-centered">
+                        <div class="modal-content">
+                        <div class="modal-header">
+                            <h5 class="modal-title">Lance Durrett</h5>
+                               <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                        </div>
+                        <div class="modal-body">
+                        <iframe title="Dr. Lance Durrett" width="640" height="360" src="https://www.youtube.com/embed/cz2QFRal5UY?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>                        </div>
+                        </div>
+                    </div>
+                    </div>
+                    <div class="card-body">
+                     <img width="60" height="60" src="http://aidrivenpi.net/wp-content/uploads/2023/09/lance-durrett-150x150.jpg" class="attachment-60x60 size-60x60 wp-post-image" alt="" decoding="async">                        <h5 class="card-title"><a href="http://aidrivenpi.net/lance-durrett/">Lance Durrett</a></h5>
+                        <p class="card-text">Medical Audit Specialist (MAS) Clinical Financial Auditor (CFA)</p>
+                        <ul style="list-style:none; margin:0; padding:0;">
+                            <li><img src="http://aidrivenpi.net/wp-content/uploads/2023/09/Address.png">26603 I45 The Woodlands, TX 77380</li>
+                            <li><img src="http://aidrivenpi.net/wp-content/uploads/2023/09/Phone.png">(281) 367-6900</li>
+                            <li><img src="http://aidrivenpi.net/wp-content/uploads/2023/09/Email.png">drdurrett@hotmail.com</li>
+                        </ul>
+                        <a href="http://aidrivenpi.net/lance-durrett/" class="btn btn-primary" style="background:#FF8F00; clear:both; margin: 20px auto!important; display:block; border:0; width:250px; border-radius:20px;  margin:auto;">VIEW PROFILE</a>
+                    </div>
+                </div>
+            </div>
+                 
+                <div class="auditors col-sm-4">
+                <div class="card" style="width: 100%; margin-top:30px;">
+                    <a href="javascript:void(0)" data-bs-toggle="modal" data-bs-target="#video_58" onclick="load_video('58')">
+                           
+                        <img class="card-img-top" src="http://aidrivenpi.net/wp-content/themes/settlemax/images/profile-video-banner-placeholder.png" alt="Card image cap">
+                                            </a>
+                   <!-- Modal -->
+                    <div class="dss modal fade" id="video_58" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                    <div class="modal-dialog modal-lg  modal-dialog-centered">
+                        <div class="modal-content">
+                        <div class="modal-header">
+                            <h5 class="modal-title">Tom	Pham</h5>
+                               <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                        </div>
+                        <div class="modal-body">
+                                                </div>
+                        </div>
+                    </div>
+                    </div>
+                    <div class="card-body">
+                     <img width="60" height="60" src="http://aidrivenpi.net/wp-content/uploads/2023/09/Tom-Pham-TP-150x150.png" class="attachment-60x60 size-60x60 wp-post-image" alt="" decoding="async" srcset="http://aidrivenpi.net/wp-content/uploads/2023/09/Tom-Pham-TP-150x150.png 150w, http://aidrivenpi.net/wp-content/uploads/2023/09/Tom-Pham-TP-300x300.png 300w, http://aidrivenpi.net/wp-content/uploads/2023/09/Tom-Pham-TP.png 600w" sizes="(max-width: 60px) 100vw, 60px">                        <h5 class="card-title"><a href="http://aidrivenpi.net/tompham/">Tom	Pham</a></h5>
+                        <p class="card-text">Medical Audit Specialist (MAS) Clinical Financial Auditor (CFA)</p>
+                        <ul style="list-style:none; margin:0; padding:0;">
+                            <li><img src="http://aidrivenpi.net/wp-content/uploads/2023/09/Address.png">1311 E. Belt Line Rd. #7 Carrollton, TX 75006</li>
+                            <li><img src="http://aidrivenpi.net/wp-content/uploads/2023/09/Phone.png">(972) 417-0651</li>
+                            <li><img src="http://aidrivenpi.net/wp-content/uploads/2023/09/Email.png">drpham@axiominjury.com</li>
+                        </ul>
+                        <a href="http://aidrivenpi.net/tompham/" class="btn btn-primary" style="background:#FF8F00; clear:both; margin: 20px auto!important; display:block; border:0; width:250px; border-radius:20px;  margin:auto;">VIEW PROFILE</a>
+                    </div>
+                </div>
+            </div>
+                 
+                <div class="auditors col-sm-4">
+                <div class="card" style="width: 100%; margin-top:30px;">
+                    <a href="javascript:void(0)" data-bs-toggle="modal" data-bs-target="#video_55" onclick="load_video('55')">
+                           
+                        <img class="card-img-top" src="http://aidrivenpi.net/wp-content/themes/settlemax/images/profile-video-banner-placeholder.png" alt="Card image cap">
+                                            </a>
+                   <!-- Modal -->
+                    <div class="dss modal fade" id="video_55" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                    <div class="modal-dialog modal-lg  modal-dialog-centered">
+                        <div class="modal-content">
+                        <div class="modal-header">
+                            <h5 class="modal-title">Michael Svensson</h5>
+                               <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                        </div>
+                        <div class="modal-body">
+                                                </div>
+                        </div>
+                    </div>
+                    </div>
+                    <div class="card-body">
+                     <img width="60" height="60" src="http://aidrivenpi.net/wp-content/uploads/2023/09/Michael-Svensson-150x150.jpg" class="attachment-60x60 size-60x60 wp-post-image" alt="" decoding="async" srcset="http://aidrivenpi.net/wp-content/uploads/2023/09/Michael-Svensson-150x150.jpg 150w, http://aidrivenpi.net/wp-content/uploads/2023/09/Michael-Svensson-300x300.jpg 300w, http://aidrivenpi.net/wp-content/uploads/2023/09/Michael-Svensson-1024x1024.jpg 1024w, http://aidrivenpi.net/wp-content/uploads/2023/09/Michael-Svensson-768x768.jpg 768w, http://aidrivenpi.net/wp-content/uploads/2023/09/Michael-Svensson-1536x1536.jpg 1536w, http://aidrivenpi.net/wp-content/uploads/2023/09/Michael-Svensson-2048x2048.jpg 2048w" sizes="(max-width: 60px) 100vw, 60px">                        <h5 class="card-title"><a href="http://aidrivenpi.net/michael-svensson/">Michael Svensson</a></h5>
+                        <p class="card-text">Medical Audit Specialist (MAS) Clinical Financial Auditor (CFA)</p>
+                        <ul style="list-style:none; margin:0; padding:0;">
+                            <li><img src="http://aidrivenpi.net/wp-content/uploads/2023/09/Address.png">432 Riverside Ave S, Sartell, MN 56377</li>
+                            <li><img src="http://aidrivenpi.net/wp-content/uploads/2023/09/Phone.png">(320) 492-7481</li>
+                            <li><img src="http://aidrivenpi.net/wp-content/uploads/2023/09/Email.png">Drsven12@gmail.com</li>
+                        </ul>
+                        <a href="http://aidrivenpi.net/michael-svensson/" class="btn btn-primary" style="background:#FF8F00; clear:both; margin: 20px auto!important; display:block; border:0; width:250px; border-radius:20px;  margin:auto;">VIEW PROFILE</a>
+                    </div>
+                </div>
+            </div>
+                 
+                <div class="auditors col-sm-4">
+                <div class="card" style="width: 100%; margin-top:30px;">
+                    <a href="javascript:void(0)" data-bs-toggle="modal" data-bs-target="#video_50" onclick="load_video('50')">
+                                                    <img class="card-img-top" src="http://aidrivenpi.net/wp-content/uploads/2023/09/michelletrumps.png" alt="Card image cap">
+                                            </a>
+                   <!-- Modal -->
+                    <div class="dss modal fade" id="video_50" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                    <div class="modal-dialog modal-lg  modal-dialog-centered">
+                        <div class="modal-content">
+                        <div class="modal-header">
+                            <h5 class="modal-title">Michelle Trumps</h5>
+                               <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                        </div>
+                        <div class="modal-body">
+                        <iframe title="Dr. Michelle Trumps" width="640" height="360" src="https://www.youtube.com/embed/DNTEExqxfy4?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>                        </div>
+                        </div>
+                    </div>
+                    </div>
+                    <div class="card-body">
+                     <img width="60" height="60" src="http://aidrivenpi.net/wp-content/uploads/2023/09/michelle-trumps-150x150.jpg" class="attachment-60x60 size-60x60 wp-post-image" alt="" decoding="async">                        <h5 class="card-title"><a href="http://aidrivenpi.net/michelle-trumps/">Michelle Trumps</a></h5>
+                        <p class="card-text">Medical Audit Specialist (MAS) Clinical Financial Auditor (CFA)</p>
+                        <ul style="list-style:none; margin:0; padding:0;">
+                            <li><img src="http://aidrivenpi.net/wp-content/uploads/2023/09/Address.png"> 3925 N. I-10 Service Rd. W., Ste. 224, Metairie , LA 70002</li>
+                            <li><img src="http://aidrivenpi.net/wp-content/uploads/2023/09/Phone.png">(504) 915-9155</li>
+                            <li><img src="http://aidrivenpi.net/wp-content/uploads/2023/09/Email.png">CASE.Audit.Trumps@gmail.com</li>
+                        </ul>
+                        <a href="http://aidrivenpi.net/michelle-trumps/" class="btn btn-primary" style="background:#FF8F00; clear:both; margin: 20px auto!important; display:block; border:0; width:250px; border-radius:20px;  margin:auto;">VIEW PROFILE</a>
+                    </div>
+                </div>
+            </div>
+                 
+                <div class="auditors col-sm-4">
+                <div class="card" style="width: 100%; margin-top:30px;">
+                    <a href="javascript:void(0)" data-bs-toggle="modal" data-bs-target="#video_47" onclick="load_video('47')">
+                           
+                        <img class="card-img-top" src="http://aidrivenpi.net/wp-content/themes/settlemax/images/profile-video-banner-placeholder.png" alt="Card image cap">
+                                            </a>
+                   <!-- Modal -->
+                    <div class="dss modal fade" id="video_47" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                    <div class="modal-dialog modal-lg  modal-dialog-centered">
+                        <div class="modal-content">
+                        <div class="modal-header">
+                            <h5 class="modal-title">Rajpaul Singh</h5>
+                               <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                        </div>
+                        <div class="modal-body">
+                                                </div>
+                        </div>
+                    </div>
+                    </div>
+                    <div class="card-body">
+                     <img width="60" height="60" src="http://aidrivenpi.net/wp-content/uploads/2023/09/rajpaul-signh-150x150.jpg" class="attachment-60x60 size-60x60 wp-post-image" alt="" decoding="async">                        <h5 class="card-title"><a href="http://aidrivenpi.net/rajpaul-singh/">Rajpaul Singh</a></h5>
+                        <p class="card-text">Medical Audit Specialist (MAS) Clinical Financial Auditor (CFA)</p>
+                        <ul style="list-style:none; margin:0; padding:0;">
+                            <li><img src="http://aidrivenpi.net/wp-content/uploads/2023/09/Address.png">17307 Pagonia Rd. Clermont FL, 34711</li>
+                            <li><img src="http://aidrivenpi.net/wp-content/uploads/2023/09/Phone.png">(917) 923-1712</li>
+                            <li><img src="http://aidrivenpi.net/wp-content/uploads/2023/09/Email.png">Rajpaul.md@gmail.com</li>
+                        </ul>
+                        <a href="http://aidrivenpi.net/rajpaul-singh/" class="btn btn-primary" style="background:#FF8F00; clear:both; margin: 20px auto!important; display:block; border:0; width:250px; border-radius:20px;  margin:auto;">VIEW PROFILE</a>
+                    </div>
+                </div>
+            </div>
+                 
+                <div class="auditors col-sm-4">
+                <div class="card" style="width: 100%; margin-top:30px;">
+                    <a href="javascript:void(0)" data-bs-toggle="modal" data-bs-target="#video_39" onclick="load_video('39')">
+                                                    <img class="card-img-top" src="http://aidrivenpi.net/wp-content/uploads/2023/09/joecoffman.png" alt="Card image cap">
+                                            </a>
+                   <!-- Modal -->
+                    <div class="dss modal fade" id="video_39" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                    <div class="modal-dialog modal-lg  modal-dialog-centered">
+                        <div class="modal-content">
+                        <div class="modal-header">
+                            <h5 class="modal-title">Joe Coffman</h5>
+                               <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                        </div>
+                        <div class="modal-body">
+                        <iframe title="Dr. Joe Coffman" width="640" height="360" src="https://www.youtube.com/embed/KiyaGpMRl2A?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>                        </div>
+                        </div>
+                    </div>
+                    </div>
+                    <div class="card-body">
+                     <img width="60" height="60" src="http://aidrivenpi.net/wp-content/uploads/2023/09/joe-coffman-150x150.jpg" class="attachment-60x60 size-60x60 wp-post-image" alt="" decoding="async" srcset="http://aidrivenpi.net/wp-content/uploads/2023/09/joe-coffman-150x150.jpg 150w, http://aidrivenpi.net/wp-content/uploads/2023/09/joe-coffman-300x300.jpg 300w, http://aidrivenpi.net/wp-content/uploads/2023/09/joe-coffman.jpg 638w" sizes="(max-width: 60px) 100vw, 60px">                        <h5 class="card-title"><a href="http://aidrivenpi.net/joe-coffman/">Joe Coffman</a></h5>
+                        <p class="card-text">Medical Audit Specialist (MAS) Clinical Financial Auditor (CFA)</p>
+                        <ul style="list-style:none; margin:0; padding:0;">
+                            <li><img src="http://aidrivenpi.net/wp-content/uploads/2023/09/Address.png">7110 SW 40th st., Miami, FL 33155</li>
+                            <li><img src="http://aidrivenpi.net/wp-content/uploads/2023/09/Phone.png">(305) 661-4775</li>
+                            <li><img src="http://aidrivenpi.net/wp-content/uploads/2023/09/Email.png">drjoecoffman@yahoo.com</li>
+                        </ul>
+                        <a href="http://aidrivenpi.net/joe-coffman/" class="btn btn-primary" style="background:#FF8F00; clear:both; margin: 20px auto!important; display:block; border:0; width:250px; border-radius:20px;  margin:auto;">VIEW PROFILE</a>
+                    </div>
+                </div>
+            </div>
+                 
+                <div class="auditors col-sm-4">
+                <div class="card" style="width: 100%; margin-top:30px;">
+                    <a href="javascript:void(0)" data-bs-toggle="modal" data-bs-target="#video_35" onclick="load_video('35')">
+                                                    <img class="card-img-top" src="http://aidrivenpi.net/wp-content/uploads/2023/09/jeffjohnson.png" alt="Card image cap">
+                                            </a>
+                   <!-- Modal -->
+                    <div class="dss modal fade" id="video_35" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                    <div class="modal-dialog modal-lg  modal-dialog-centered">
+                        <div class="modal-content">
+                        <div class="modal-header">
+                            <h5 class="modal-title">Jeff Johnson</h5>
+                               <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                        </div>
+                        <div class="modal-body">
+                        <iframe title="Dr. Jeff Johnson" width="640" height="360" src="https://www.youtube.com/embed/8JAXU9cd8TU?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>                        </div>
+                        </div>
+                    </div>
+                    </div>
+                    <div class="card-body">
+                     <img width="60" height="60" src="http://aidrivenpi.net/wp-content/uploads/2023/09/jeff-johnson-150x150.jpg" class="attachment-60x60 size-60x60 wp-post-image" alt="" decoding="async">                        <h5 class="card-title"><a href="http://aidrivenpi.net/jeff-johnson/">Jeff Johnson</a></h5>
+                        <p class="card-text">Medical Audit Specialist (MAS) Clinical Financial Auditor (CFA)</p>
+                        <ul style="list-style:none; margin:0; padding:0;">
+                            <li><img src="http://aidrivenpi.net/wp-content/uploads/2023/09/Address.png">5251 R St, Ste 4, Lincoln, NE 68504</li>
+                            <li><img src="http://aidrivenpi.net/wp-content/uploads/2023/09/Phone.png">(402) 464-0444</li>
+                            <li><img src="http://aidrivenpi.net/wp-content/uploads/2023/09/Email.png">drjkj@msn.com</li>
+                        </ul>
+                        <a href="http://aidrivenpi.net/jeff-johnson/" class="btn btn-primary" style="background:#FF8F00; clear:both; margin: 20px auto!important; display:block; border:0; width:250px; border-radius:20px;  margin:auto;">VIEW PROFILE</a>
+                    </div>
+                </div>
+            </div>
+                 
+                <div class="auditors col-sm-4">
+                <div class="card" style="width: 100%; margin-top:30px;">
+                    <a href="javascript:void(0)" data-bs-toggle="modal" data-bs-target="#video_32" onclick="load_video('32')">
+                           
+                        <img class="card-img-top" src="http://aidrivenpi.net/wp-content/themes/settlemax/images/profile-video-banner-placeholder.png" alt="Card image cap">
+                                            </a>
+                   <!-- Modal -->
+                    <div class="dss modal fade" id="video_32" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                    <div class="modal-dialog modal-lg  modal-dialog-centered">
+                        <div class="modal-content">
+                        <div class="modal-header">
+                            <h5 class="modal-title">John Helton</h5>
+                               <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                        </div>
+                        <div class="modal-body">
+                                                </div>
+                        </div>
+                    </div>
+                    </div>
+                    <div class="card-body">
+                     <img width="60" height="60" src="http://aidrivenpi.net/wp-content/uploads/2023/09/john-helton-150x150.jpg" class="attachment-60x60 size-60x60 wp-post-image" alt="" decoding="async">                        <h5 class="card-title"><a href="http://aidrivenpi.net/john-helton/">John Helton</a></h5>
+                        <p class="card-text">Medical Audit Specialist (MAS) Clinical Financial Auditor (CFA)</p>
+                        <ul style="list-style:none; margin:0; padding:0;">
+                            <li><img src="http://aidrivenpi.net/wp-content/uploads/2023/09/Address.png">4615 SE Woodstock Blvd., Portland, OR 97206</li>
+                            <li><img src="http://aidrivenpi.net/wp-content/uploads/2023/09/Phone.png">(503) 771-1974</li>
+                            <li><img src="http://aidrivenpi.net/wp-content/uploads/2023/09/Email.png"> docjohn.helton@gmail.com</li>
+                        </ul>
+                        <a href="http://aidrivenpi.net/john-helton/" class="btn btn-primary" style="background:#FF8F00; clear:both; margin: 20px auto!important; display:block; border:0; width:250px; border-radius:20px;  margin:auto;">VIEW PROFILE</a>
+                    </div>
+                </div>
+            </div>
+                 
+                <div class="auditors col-sm-4">
+                <div class="card" style="width: 100%; margin-top:30px;">
+                    <a href="javascript:void(0)" data-bs-toggle="modal" data-bs-target="#video_29" onclick="load_video('29')">
+                                                    <img class="card-img-top" src="http://aidrivenpi.net/wp-content/uploads/2023/09/stevensmith.png" alt="Card image cap">
+                                            </a>
+                   <!-- Modal -->
+                    <div class="dss modal fade" id="video_29" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                    <div class="modal-dialog modal-lg  modal-dialog-centered">
+                        <div class="modal-content">
+                        <div class="modal-header">
+                            <h5 class="modal-title">Steven Smith</h5>
+                               <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                        </div>
+                        <div class="modal-body">
+                        <iframe title="Dr. Steven Smith" width="640" height="360" src="https://www.youtube.com/embed/V6EsyMpMPTA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>                        </div>
+                        </div>
+                    </div>
+                    </div>
+                    <div class="card-body">
+                     <img width="60" height="60" src="http://aidrivenpi.net/wp-content/uploads/2023/09/steven-smith-150x150.jpg" class="attachment-60x60 size-60x60 wp-post-image" alt="" decoding="async">                        <h5 class="card-title"><a href="http://aidrivenpi.net/steven-smith/">Steven Smith</a></h5>
+                        <p class="card-text">Medical Audit Specialist (MAS) Clinical Financial Auditor (CFA)</p>
+                        <ul style="list-style:none; margin:0; padding:0;">
+                            <li><img src="http://aidrivenpi.net/wp-content/uploads/2023/09/Address.png">6535 FM 2920 Rd., Ste 200, Spring, TX 77379</li>
+                            <li><img src="http://aidrivenpi.net/wp-content/uploads/2023/09/Phone.png">(281) 376-1288</li>
+                            <li><img src="http://aidrivenpi.net/wp-content/uploads/2023/09/Email.png">drsmithdc@springspine.net</li>
+                        </ul>
+                        <a href="http://aidrivenpi.net/steven-smith/" class="btn btn-primary" style="background:#FF8F00; clear:both; margin: 20px auto!important; display:block; border:0; width:250px; border-radius:20px;  margin:auto;">VIEW PROFILE</a>
+                    </div>
+                </div>
+            </div>
+                 
+                <div class="auditors col-sm-4">
+                <div class="card" style="width: 100%; margin-top:30px;">
+                    <a href="javascript:void(0)" data-bs-toggle="modal" data-bs-target="#video_24" onclick="load_video('24')">
+                                                    <img class="card-img-top" src="http://aidrivenpi.net/wp-content/uploads/2023/09/andrewjones.png" alt="Card image cap">
+                                            </a>
+                   <!-- Modal -->
+                    <div class="dss modal fade" id="video_24" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                    <div class="modal-dialog modal-lg  modal-dialog-centered">
+                        <div class="modal-content">
+                        <div class="modal-header">
+                            <h5 class="modal-title">Andrew Jones</h5>
+                               <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                        </div>
+                        <div class="modal-body">
+                        <iframe title="Dr. Andrew Jones" width="640" height="360" src="https://www.youtube.com/embed/w7IYSOxiPAQ?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>                        </div>
+                        </div>
+                    </div>
+                    </div>
+                    <div class="card-body">
+                     <img width="60" height="60" src="http://aidrivenpi.net/wp-content/uploads/2023/09/andrew-jones-150x150.jpg" class="attachment-60x60 size-60x60 wp-post-image" alt="" decoding="async">                        <h5 class="card-title"><a href="http://aidrivenpi.net/andrew-jones/">Andrew Jones</a></h5>
+                        <p class="card-text">Medical Audit Specialist (MAS) Clinical Financial Auditor (CFA)</p>
+                        <ul style="list-style:none; margin:0; padding:0;">
+                            <li><img src="http://aidrivenpi.net/wp-content/uploads/2023/09/Address.png">814 S Main St #B Holmen, WI 54636</li>
+                            <li><img src="http://aidrivenpi.net/wp-content/uploads/2023/09/Phone.png">(608) 359-0120</li>
+                            <li><img src="http://aidrivenpi.net/wp-content/uploads/2023/09/Email.png">drjoneschiro@yahoo.com</li>
+                        </ul>
+                        <a href="http://aidrivenpi.net/andrew-jones/" class="btn btn-primary" style="background:#FF8F00; clear:both; margin: 20px auto!important; display:block; border:0; width:250px; border-radius:20px;  margin:auto;">VIEW PROFILE</a>
+                    </div>
+                </div>
+            </div>
+                 
+                <div class="auditors col-sm-4">
+                <div class="card" style="width: 100%; margin-top:30px;">
+                    <a href="javascript:void(0)" data-bs-toggle="modal" data-bs-target="#video_21" onclick="load_video('21')">
+                                                    <img class="card-img-top" src="http://aidrivenpi.net/wp-content/uploads/2023/09/orlanfikes.png" alt="Card image cap">
+                                            </a>
+                   <!-- Modal -->
+                    <div class="dss modal fade" id="video_21" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                    <div class="modal-dialog modal-lg  modal-dialog-centered">
+                        <div class="modal-content">
+                        <div class="modal-header">
+                            <h5 class="modal-title">Orlan Fikes</h5>
+                               <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                        </div>
+                        <div class="modal-body">
+                        <iframe title="Dr. Orlan Fikes" width="640" height="360" src="https://www.youtube.com/embed/TDRWnrHITd0?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>                        </div>
+                        </div>
+                    </div>
+                    </div>
+                    <div class="card-body">
+                     <img width="60" height="60" src="http://aidrivenpi.net/wp-content/uploads/2023/09/orlan-fikes-150x150.jpg" class="attachment-60x60 size-60x60 wp-post-image" alt="" decoding="async">                        <h5 class="card-title"><a href="http://aidrivenpi.net/orlan-fikes/">Orlan Fikes</a></h5>
+                        <p class="card-text">Medical Audit Specialist (MAS) Clinical Financial Auditor (CFA)</p>
+                        <ul style="list-style:none; margin:0; padding:0;">
+                            <li><img src="http://aidrivenpi.net/wp-content/uploads/2023/09/Address.png">5309 Wurzbach, Ste. #114, San Antonio, Texas 78238</li>
+                            <li><img src="http://aidrivenpi.net/wp-content/uploads/2023/09/Phone.png">(210) 684-8464</li>
+                            <li><img src="http://aidrivenpi.net/wp-content/uploads/2023/09/Email.png">drolfikes@gmail.com</li>
+                        </ul>
+                        <a href="http://aidrivenpi.net/orlan-fikes/" class="btn btn-primary" style="background:#FF8F00; clear:both; margin: 20px auto!important; display:block; border:0; width:250px; border-radius:20px;  margin:auto;">VIEW PROFILE</a>
+                    </div>
+                </div>
+            </div>
+                 
+                <div class="auditors col-sm-4">
+                <div class="card" style="width: 100%; margin-top:30px;">
+                    <a href="javascript:void(0)" data-bs-toggle="modal" data-bs-target="#video_16" onclick="load_video('16')">
+                                                    <img class="card-img-top" src="http://aidrivenpi.net/wp-content/uploads/2023/09/devinkoenig.png" alt="Card image cap">
+                                            </a>
+                   <!-- Modal -->
+                    <div class="dss modal fade" id="video_16" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                    <div class="modal-dialog modal-lg  modal-dialog-centered">
+                        <div class="modal-content">
+                        <div class="modal-header">
+                            <h5 class="modal-title">Devin Koenig</h5>
+                               <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                        </div>
+                        <div class="modal-body">
+                        <iframe title="Dr. Devin Koenig" width="640" height="360" src="https://www.youtube.com/embed/PI77P8MFzqc?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>                        </div>
+                        </div>
+                    </div>
+                    </div>
+                    <div class="card-body">
+                     <img width="60" height="60" src="http://aidrivenpi.net/wp-content/uploads/2023/09/Profile-Pic_Devin-Koenig-150x150.png" class="attachment-60x60 size-60x60 wp-post-image" alt="" decoding="async" srcset="http://aidrivenpi.net/wp-content/uploads/2023/09/Profile-Pic_Devin-Koenig-150x150.png 150w, http://aidrivenpi.net/wp-content/uploads/2023/09/Profile-Pic_Devin-Koenig-300x300.png 300w, http://aidrivenpi.net/wp-content/uploads/2023/09/Profile-Pic_Devin-Koenig.png 466w" sizes="(max-width: 60px) 100vw, 60px">                        <h5 class="card-title"><a href="http://aidrivenpi.net/devin-koenig/">Devin Koenig</a></h5>
+                        <p class="card-text">Medical Audit Specialist (MAS) Clinical Financial Auditor (CFA)</p>
+                        <ul style="list-style:none; margin:0; padding:0;">
+                            <li><img src="http://aidrivenpi.net/wp-content/uploads/2023/09/Address.png">1510 Hwy 206 Cisco, TX 76437</li>
+                            <li><img src="http://aidrivenpi.net/wp-content/uploads/2023/09/Phone.png">(254) 433-1117</li>
+                            <li><img src="http://aidrivenpi.net/wp-content/uploads/2023/09/Email.png">dkoenig@plexushc.com</li>
+                        </ul>
+                        <a href="http://aidrivenpi.net/devin-koenig/" class="btn btn-primary" style="background:#FF8F00; clear:both; margin: 20px auto!important; display:block; border:0; width:250px; border-radius:20px;  margin:auto;">VIEW PROFILE</a>
+                    </div>
+                </div>
+            </div>
+        
+        
+      </div>
+</div>
+<div class="container mt-5 mb-5">
+    <div class="row">
+        <div class="col-sm-12">
+            <h2 class="text-center">Optimize AI to Personal Injury</h2>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-12">
+        <main>
+    <!-- Slider -->
+    <section class="bg-light p-md-2 p-0">
+
+
+       <div class="container position-relative">
+    <!-- Cards Wrap -->
+    <div class="slider d-flex align-items-center justify-content-start overflow-hidden position-relative">
+        <div class="slider-wrap d-flex align-items-center position-absolute">
+            <div class="slide-card position-relative bg-white overflow-hidden shadow-sm mx-2">
+                <a href="#" class="text-decoration-none" data-bs-toggle="modal" data-bs-target="#video1">
+                    <img src="http://aidrivenpi.net/wp-content/themes/settlemax/images/wideo-thumbnail.png" alt="slide" width="100%">
+                </a>
+                <!-- Modal -->
+                <div class="modal fade" id="video1" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                <div id="footer_video" class="modal-dialog  modal-dialog-centered modal-lg">
+                    <div class="modal-content">
+                    <div class="modal-header">
+                            <button type="button" class="btn-close close-popup" data-bs-dismiss="modal" aria-label="Close"></button>
+                    </div>
+                    <div class="modal-body">
+                        <video id="video_src_1" width="560" height="415" controls="" style="width:100%;">
+                            <source class="c_src_mp4" src="https://aidrivenpi.net/videos/video-2-paul-samakow-full-video.mp4" type="video/mp4">
+                            <source src="movie.ogg" type="video/ogg">
+                            Your browser does not support the video tag.
+                        </video>
+                    </div>
+                   
+                    </div>
+                </div>
+                </div>
+            </div>
+           
+            <div class="slide-card position-relative bg-white overflow-hidden shadow-sm mx-2">
+                <a href="#" class="text-decoration-none" data-bs-toggle="modal" data-bs-target="#video2">
+                    <img src="http://aidrivenpi.net/wp-content/themes/settlemax/images/3x/Thumbnail-2@3x.png" alt="slide" width="100%">
+                </a>
+                 <!-- Modal -->
+                 <div class="modal fade" id="video2" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                 <div class="modal-dialog  modal-dialog-centered modal-lg">
+                    <div class="modal-content">
+                    <div class="modal-header">
+                            <button type="button" class="btn-close close-popup" data-bs-dismiss="modal" aria-label="Close"></button>
+                    </div>
+                    <div class="modal-body">
+                        <video width="560" height="415" controls="" style="width:100%;">
+                            <source src="https://aidrivenpi.net/videos/Frank-Smart-IQ-3-less-�-amounts-and-more-titles.mp4" type="video/mp4">
+                            <source src="movie.ogg" type="video/ogg">
+                            Your browser does not support the video tag.
+                        </video>
+                      </div>
+                    </div>
+                </div>
+                </div>
+            </div>
+            <div class="slide-card position-relative bg-white overflow-hidden shadow-sm mx-2">
+                <a href="#" class="text-decoration-none" data-bs-toggle="modal" data-bs-target="#video3">
+                <img src="http://aidrivenpi.net/wp-content/themes/settlemax/images/3x/Thumbnail-3@3x.png" alt="slide" width="100%">
+                </a>
+                 <!-- Modal -->
+                 <div class="modal fade" id="video3" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                 <div class="modal-dialog  modal-dialog-centered modal-lg">
+                    <div class="modal-content">
+                    <div class="modal-header">
+                            <button type="button" class="btn-close close-popup" data-bs-dismiss="modal" aria-label="Close"></button>
+                    </div>
+                    <div class="modal-body">
+                      <video width="560" height="415" controls="" style="width:100%;">
+                            <source src="https://aidrivenpi.net/videos/video-1-11-min-attorney.mp4" type="video/mp4">
+                            <source src="movie.ogg" type="video/ogg">
+                            Your browser does not support the video tag.
+                        </video>
+                    </div>
+                    </div>
+                </div>
+                </div>
+            </div>
+          
+            <div class="slide-card position-relative bg-white overflow-hidden shadow-sm mx-2">
+                <a href="#" class="text-decoration-none" data-bs-toggle="modal" data-bs-target="#video4">
+                <img src="http://aidrivenpi.net/wp-content/themes/settlemax/images/3x/Thumbnail-1@3x.png" alt="slide" width="100%">
+                </a>
+                  <!-- Modal -->
+                  <div class="modal fade" id="video4" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                 <div class="modal-dialog  modal-dialog-centered modal-lg">
+                    <div class="modal-content">
+                    <div class="modal-header">
+                            <button type="button" class="btn-close close-popup" data-bs-dismiss="modal" aria-label="Close"></button>
+                    </div>
+                    <div class="modal-body">
+                    
+                    <video width="560" height="415" controls="" style="width:100%;">
+                            <source src="https://aidrivenpi.net/videos/video-4-documentary.mp4" type="video/mp4">
+                            <source src="movie.ogg" type="video/ogg">
+                            Your browser does not support the video tag.
+                        </video>
+                    </div>
+                    </div>
+                </div>
+                </div>
+            </div>
+         
+        </div>
+    </div>
+    <!-- Slider Arrows -->
+    <!-- Left Arrow -->
+    <a href="javascript:void();" class="text-dark" id="previous-arrow">
+        <div class="arrow bg-white d-flex align-items-center justify-content-center shadow-lg border rounded-circle position-absolute bottom-50 start-0">
+            <i class="fa fa-angle-left" aria-hidden="true"></i>
+        </div>
+    </a>
+    <!-- Right Arrow -->
+    <a href="javascript:void();" class="text-dark" id="next-arrow">
+        <div class="arrow bg-white d-flex align-items-center justify-content-center shadow-lg border rounded-circle position-absolute bottom-50 end-0">
+            <i class="fa fa-angle-right" aria-hidden="true"></i>
+        </div>
+    </a>
+</div>
+    </section>
+</main>
+        </div>
+    </div>
+</div>
+
+<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"\/*"},{"not":{"href_matches":["\/wp-*.php","\/wp-admin\/*","\/wp-content\/uploads\/*","\/wp-content\/*","\/wp-content\/plugins\/*","\/wp-content\/themes\/settlemax\/*","\/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+  
+        <script src="http://aidrivenpi.net/wp-content/plugins/directory-map/assets/js/raphael-min.js"></script>
+        <script src="http://aidrivenpi.net/wp-content/plugins/directory-map/assets/js/us-map-svg.js"></script>
+        <script type="text/javascript">
+            function load_video(id){
+                var url = $("#video_" + id + " iframe").attr('src');
+                $("#video_" + id ).on('hide.bs.modal', function() {
+				    $("#video_" + id + " iframe").attr('src', '');
+			    });
+			    $("#video_" + id).on('show.bs.modal', function() {
+				    $("#video_" + id + " iframe").attr('src', url);
+			    });
+
+            }
+        </script>
+        <script type="text/javascript">
+            window.onload = function () {
+                var R = Raphael("usa_map", 900, 700),
+                attr = {
+                "fill": "#d3d3d3",
+                "stroke": "#fff",
+                "stroke-opacity": "1",
+                "stroke-linejoin": "round",
+                "stroke-miterlimit": "4",
+                "stroke-width": "0.75",
+                "stroke-dasharray": "none"
+                },
+                usRaphael = {};
+                var html = "";
+                var scrolled=0;
+                //Draw Map and store Raphael paths
+                for (var state in usMap) {
+                usRaphael[state] = R.path(usMap[state]).attr(attr);
+                }
+                var counter = 0;
+                //Do Work on Map
+                for (var state in usRaphael) {
+                counter++;
+                usRaphael[state].color = Raphael.getColor();
+             
+                
+                (function (st, state) {
+                    //console.log(st.getColor());
+                    var second = document.createElementNS('http://www.w3.org/2000/svg', 'text');
+                    var secondContent  ="";
+                    //if(state !== "ak"){
+                        secondContent = document.createTextNode(state.toUpperCase());
+                    //}
+                    
+
+
+                    second.appendChild(secondContent);
+                    st[0].style.cursor = "pointer";
+                    st[0].setAttribute("map_id",  counter );
+                    st[0].setAttribute("class", "map_tile_" + counter );
+                    st[0].after(second);
+                    var rect = st[0].getBBox();
+                    var x =0;
+                    var y =0;
+                    switch(state){
+                        case "fl":
+                            x = rect.x  + (rect.width  / 3)  + 60;
+                            y = rect.y  + (rect.height / 3)  + 20
+                            break;
+                        case "ca":
+                            x = rect.x  + (rect.width  / 3) - 20;
+                            y = rect.y  + (rect.height / 3)  + 20
+                            break; 
+                        case "tx":
+                            x = rect.x  + (rect.width  / 3)  + 60;
+                            y = rect.y  + (rect.height / 3)  + 30
+                            break;   
+                        case "la":
+                            x = rect.x  + (rect.width  / 3);
+                            y = rect.y  + (rect.height / 3) + 10;
+                            break;   
+                        case "id":
+                            x = rect.x  + (rect.width  / 3)
+                            y = rect.y  + (rect.height / 3)  + 50
+                            break;
+                        case "mn":
+                            x = rect.x  + (rect.width  / 3)
+                            y = rect.y  + (rect.height / 3)  + 30
+                            break;
+                        case "ok":
+                            x = rect.x  + (rect.width  / 3) + 40;
+                            y = rect.y  + (rect.height / 3) + 10;
+                            break;
+                        case "ky":
+                            x = rect.x  + (rect.width  / 3) + 30;
+                            y = rect.y  + (rect.height / 3) + 20;
+                            break;
+                        case "mi":
+                            x = rect.x  + (rect.width  / 3) + 40;
+                            y = rect.y  + (rect.height / 3) + 50;
+                            break;
+                        case "ny":
+                            x = rect.x  + (rect.width  / 3) + 10;
+                            y = rect.y  + (rect.height / 3) + 25;
+                            break;
+                        case "me":
+                            x = rect.x  + (rect.width  / 3) - 5;
+                            y = rect.y  + (rect.height / 3) + 10;
+                            break;        
+                        case "va":
+                            x = rect.x  + (rect.width  / 3) + 15;
+                            y = rect.y  + (rect.height / 3) + 30;
+                            break;
+                        case "nh":
+                            x = rect.x  + (rect.width  / 3) - 5;
+                            y = rect.y  + (rect.height / 3) + 20;
+                            break;   
+                        case "ma":
+                            x = rect.x  + (rect.width  / 3) - 5;
+                            y = rect.y  + (rect.height / 3) + 5;
+                            break;
+                        case "md":
+                            x = rect.x  + (rect.width  / 3) + 15;
+                            y = rect.y  + (rect.height / 3);
+                            break;                                                                                                     
+                        case "ct":
+                            x = rect.x  + (rect.width  / 3) + 5;
+                            y = rect.y  + (rect.height / 3);
+                            break;    
+                        default:
+                            x = rect.x  + (rect.width  / 3)
+                            y = rect.y  + (rect.height / 3)  + 10
+                            break
+                        
+                    }
+                    
+                    second.setAttribute('x', x );
+                    second.setAttribute('y', y);
+                    second.setAttribute('font-weight', "bold");
+                    second.setAttribute('font-size', "8");
+                    second.setAttribute('class', "text_" + counter);   
+
+
+                    
+                    st[0].addEventListener("click", function(e){
+                    st[0].after(second);
+                    second.setAttribute('x', x);
+                    second.setAttribute('y', y);
+                    const element = document.getElementById("auditors_data");
+                    element.scrollIntoView();
+                                    // get the scrollDemo
+                        let div = document.getElementById('map_direct_body');
+                        div.scrollTop += 300;
+                        
+                        var map_id = st[0].getAttribute('map_id');
+                        jQuery.post("http://aidrivenpi.net/wp-admin/admin-ajax.php?action=search_auditor",{map_id:map_id}, function(e){
+                            var directory = JSON.parse(e);
+                            if(e){
+                                var state = directory[0]['state'];
+                            html = "";
+                            if(directory.length > 1){
+                                for(var i = 1; i < directory.length; ++i){
+                                //if(i > 0){ 
+                                    var name = directory[i]['title'];
+                                    var extra = directory[i]['extra'];
+                                    var address = directory[i]['address'];
+                                    var photo = directory[i]['image_url'];
+                                    var number = directory[i]['number'];
+                                    var email_address = directory[i]['email_address'];
+                                    var permalink = directory[i]['permalink']; 
+                                    var video_thumbnail =  directory[i]['video_thumbnail'];
+                                    var video =  directory[i]['video'];
+                                    html += '<div class="auditors col-sm-4">';
+                                    html += '   <div class="card" style="width: 100%; margin-top:30px;">';
+                                    html += '     <a href="javascript:void(0)" data-bs-toggle="modal" data-bs-target="#video_'+i+'" >';
+                                    html += '          <img class="card-img-top" src="'+video_thumbnail+'" alt="Card image cap">';
+                                    html += '                                         </a>';
+                                    html += '                <div class="dss modal fade" id="video_'+i+'" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">';
+                                    html += '                <div class="modal-dialog modal-lg  modal-dialog-centered">';
+                                    html += '                    <div class="modal-content">';
+                                    html += '                    <div class="modal-header">';
+                                    html += '                        <h5 class="modal-title">'+name+'</h5>';
+                                    html += '                        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>';
+                                    html += '                    </div>';
+                                    html += '                    <div class="modal-body">';
+                                    html +=                         video;
+                                    html += '                    </div>';
+                                    html += '                    </div>'; 
+                                    html += '                </div>';
+                                    html += '                </div>';
+                                    html += '                <div class="card-body">';
+                                    html += '                <img width="60" height="60" src="'+photo+'" class="attachment-60x60 size-60x60 wp-post-image" alt=""><h5><a href="'+permalink+'">'+name+'</a></h5>';
+                                    html += '                    <p class="card-text">'+extra+'</p>';
+                                    html += '                    <ul style="list-style:none; margin:0; padding:0;">';
+                                    html += '                        <li><img src="http://aidrivenpi.net/wp-content/uploads/2023/09/Address.png">'+address+'</li>';
+                                    html += '                        <li><img src="http://aidrivenpi.net/wp-content/uploads/2023/09/Phone.png">'+number+'</li>';
+                                    html += '                        <li><img src="http://aidrivenpi.net/wp-content/uploads/2023/09/Email.png">'+email_address+'</li>';
+                                    html += '                    </ul>';
+                                    html += '                    <a href="'+permalink+'" class="btn btn-primary" style="background:#FF8F00; clear:both; margin: 20px auto!important; display:block; border:0; width:250px; border-radius:20px;  margin:auto;">VIEW PROFILE</a>';
+                                    html += '                </div>';
+                                    html += '            </div>';
+                                    html += '</div>';
+                               // }
+                               
+                            }
+                            }else{
+                                html ="<h2 style='text-align:center;'>No Result</h2>";
+                            }
+                            
+                            }
+                            jQuery("#auditors_data").html(html);
+                            if(state){
+                              
+                                jQuery("#find_auditor").html("<h3>Find Auditor at " + "<strong>" + state  + "</strong>" + "</h3>");
+                            }else{
+                                jQuery("#find_auditor").html("");
+                            }
+                           
+                           
+                        });
+                    });
+                    st[0].onmouseover = function () {
+                    st.animate({fill: st.color}, 500);
+                    st.toFront();
+                    R.safari();
+                    st[0].after(second);
+                    second.setAttribute('x', x);
+                    second.setAttribute('y',y);
+                    
+                    };
+                    
+                    st[0].onmouseout = function () {
+                    st.animate({fill: "#d3d3d3"}, 500);
+                    st.toFront();
+                    R.safari();
+                    st[0].after(second);
+                    second.setAttribute('x',x);
+                    second.setAttribute('y', y);
+                    
+                    };
+                            
+                })(usRaphael[state], state);
+                }
+
+                //
+                //html
+                        
+            };
+            </script>
+        <script type="text/javascript" src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+<script type="text/javascript">
+    $(document).ready(function () {
+    // get card width dynamically
+    cardWidth = $(".slide-card").width();
+    // next-arrow
+    $('#next-arrow').click(function () {
+        var firstChildAppend = $(".slide-card:first-child()");
+        $(".slide-card").animate({ left: -cardWidth }, function () {
+            $('.slider-wrap').append(firstChildAppend);
+            $(".slide-card").css({
+                left: 0,
+            })
+        })
+    });
+    // previous-arrow
+    $('#previous-arrow').click(function () {
+        var lastChildPrepend = $(".slide-card:last-child()");
+        $(".slide-card").animate({ left: cardWidth }, function () {
+            $('.slider-wrap').prepend(lastChildPrepend);
+            $(".slide-card").css({
+                left: 0,
+            })
+        })
+    });
+});
+</script>
+<script type="text/javascript">
+    $(document).ready(function() {
+        $('.close-popup').click(function(){
+        $('video').each(function(){
+            $(this).get(0).pause();
+        })
+    });
+    });
+</script>
+
+
+</body><chatgpt-sidebar data-gpts-theme="dark"></chatgpt-sidebar></html>
